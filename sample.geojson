@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.747626, 32.986942]
+      },
+      "properties": {
+        "name": "Eugene McDermott Library",
+        "type": "Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.751750, 32.987806]
+      },
+      "properties": {
+        "name": "Arts and Humanities Building",
+        "type": "Building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.749821, 32.985283]
+      },
+      "properties": {
+        "name": "UTD Activity Center",
+        "type": "Activity Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-96.751750, 32.987806],
+          [-96.747626, 32.986942]
+        ]
+      },
+      "properties": {
+        "name": "Arts to Library Path"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-96.747626, 32.986942],
+          [-96.749821, 32.985283]
+        ]
+      },
+      "properties": {
+        "name": "Library to Activity Center Path"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-96.753578, 32.988371],
+            [-96.752356, 32.988371],
+            [-96.752384, 32.987069],
+            [-96.753588, 32.987077],
+            [-96.753578, 32.988371]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Parking Lot 1",
+        "type": "Parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-96.747643, 32.988078],
+            [-96.746982, 32.988086],
+            [-96.747046, 32.987493],
+            [-96.747653, 32.987554],
+            [-96.747643, 32.988078]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Parking Lot 2",
+        "type": "Parking"
+      }
+    }
+  ]
+}
